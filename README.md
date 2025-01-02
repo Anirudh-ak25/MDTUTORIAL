@@ -14,4 +14,4 @@ README
 
 I think I'll use it to format all of my documents from now on.  
 
-![screenshot](pic1.png)
+>![screenshot](pic1.png)
